@@ -5,33 +5,35 @@
 
 [DeepLearning.AI TensorFlow Developer Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 
+[<img src="https://github.com/dionmkls/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/main/misc/certificates/Specialization.jpg" />](https://coursera.org/verify/professional-cert/MJMSEZFPZCHC)
+
 ---
 
 ## Courses and Certificates
   - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/dionmkls/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/C1) <details>
     <summary>Show Certificate</summary><p>
 
-      [<img src="https://github.com/dionmkls/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/main/misc/certificates/C1.jpg"/>](https://coursera.org/verify/4WL4PB9D583Q)
+      [<img src="https://github.com/dionmkls/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/main/misc/certificates/C1.jpg"/>](https://coursera.org/verify/M6RUFFXHVLWG)
 
   </p></details>
 
   - [Convolutional Neural Networks in TensorFlow](https://github.com/dionmkls/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/C2) <details>
     <summary>Show Certificate</summary><p>
 
-      [<img src="https://github.com/dionmkls/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/main/misc/certificates/C2.jpg"/>](https://coursera.org/verify/PX4BBR47VY5X)
+      [<img src="https://github.com/dionmkls/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/main/misc/certificates/C2.jpg"/>](https://coursera.org/verify/JQKA329R8GVK)
 
   </p></details>
 
   - [Natural Language Processing in TensorFlow](https://github.com/dionmkls/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/C3) <details>
     <summary>Show Certificate</summary><p>
 
-      [<img src="https://github.com/dionmkls/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/main/misc/certificates/C3.jpg"/>](https://coursera.org/verify/JCGQ7E93HKX2)
+      [<img src="https://github.com/dionmkls/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/main/misc/certificates/C3.jpg"/>](https://coursera.org/verify/QRJKZNM7WRN7)
 
   </p></details>
 
   - [Sequences, Time Series and Prediction](https://github.com/dionmkls/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/C4) <details>
     <summary>Show Certificate</summary><p>
 
-      [<img src="https://github.com/dionmkls/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/main/misc/certificates/C4.jpg"/>](https://coursera.org/verify/Q4THAWDKPCUL)
+      [<img src="https://github.com/dionmkls/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/main/misc/certificates/C4.jpg"/>](https://coursera.org/verify/47NGRB98MC3S)
 
   </p></details>
