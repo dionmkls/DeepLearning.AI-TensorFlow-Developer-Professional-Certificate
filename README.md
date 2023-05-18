@@ -11,7 +11,7 @@
   - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/dionmkls/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/C1) <details>
     <summary>Show Certificate</summary><p>
 
-      [<img src= />](https://coursera.org/verify/4WL4PB9D583Q)
+      [<img src="https://github.com/dionmkls/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/main/misc/certificates/C1.jpg"/>](https://coursera.org/verify/4WL4PB9D583Q)
 
   </p></details>
 
