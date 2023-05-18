@@ -8,28 +8,28 @@
 ---
 
 ## Courses and Certificates
-  - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning] <details>
+  - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/dionmkls/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/C1) <details>
     <summary>Show Certificate</summary><p>
 
       [<img src= />](https://coursera.org/verify/4WL4PB9D583Q)
 
   </p></details>
 
-  - [Convolutional Neural Networks in TensorFlow] <details>
+  - [Convolutional Neural Networks in TensorFlow](https://github.com/dionmkls/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/C2) <details>
     <summary>Show Certificate</summary><p>
 
       [<img src= />](https://coursera.org/verify/PX4BBR47VY5X)
 
   </p></details>
 
-  - [Natural Language Processing in TensorFlow] <details>
+  - [Natural Language Processing in TensorFlow](https://github.com/dionmkls/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/C3) <details>
     <summary>Show Certificate</summary><p>
 
       [<img src= />](https://coursera.org/verify/JCGQ7E93HKX2)
 
   </p></details>
 
-  - [Sequences, Time Series and Prediction] <details>
+  - [Sequences, Time Series and Prediction](https://github.com/dionmkls/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/C4) <details>
     <summary>Show Certificate</summary><p>
 
       [<img src= />](https://coursera.org/verify/Q4THAWDKPCUL)
